@@ -857,8 +857,9 @@ display: block;
 
 .form-icon {
     position: absolute;
-    top: 11px;
+    top: 50%;
     left: 12px;
+    transform: translateY(-50%);
 
     fill: #000000;
 
